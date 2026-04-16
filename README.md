@@ -18,8 +18,9 @@ Abstraction :
 
 Focuses on hiding complex implementation details and showing only essential features.
 
-✔ Implemented using abstract classes and methods
-✔ Helps in reducing complexity
+ Implemented using abstract classes and methods
+ <br>
+ Helps in reducing complexity
 
 ---
 
@@ -27,8 +28,9 @@ Encapsulation :
 
 Restricts direct access to variables and methods to ensure data protection.
 
-✔ Use of private variables (`_` and `__`)
-✔ Getter and setter methods
+ Use of private variables (`_` and `__`)
+ <br>
+ Getter and setter methods
 
 ---
 
@@ -36,8 +38,9 @@ Inheritance :
 
 Allows one class to inherit properties and behavior from another class.
 
-✔ Code reusability
-✔ Hierarchical relationships
+ Code reusability
+ <br>
+ Hierarchical relationships
 
 ---
 
@@ -45,8 +48,9 @@ Polymorphism :
 
 Enables using a single interface for different data types or methods.
 
-✔ Method overriding
-✔ Same function, different behavior
+ Method overriding
+ <br>
+ Same function, different behavior
 
 ---
 
