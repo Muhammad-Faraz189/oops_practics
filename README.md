@@ -1,4 +1,4 @@
-## OOP Practice ##
+## OOP Practice 
 
 > A comprehensive implementation of **Object-Oriented Programming (OOP)** concepts using clean and practical Python examples.
 
@@ -12,7 +12,7 @@ The project is ideal for beginners and intermediate developers who want to stren
 
 ---
 
-##Core Concepts Covered## :
+Core Concepts Covered :
 
 Abstraction :
 
@@ -54,7 +54,7 @@ Enables using a single interface for different data types or methods.
 
 ---
 
-##Project Structure :
+ Project Structure :
 
 ```
 oops-practice/
@@ -70,7 +70,7 @@ oops-practice/
 
 
 
-##Learning Objectives :
+Learning Objectives :
 
 This project helps you:
 
@@ -81,7 +81,7 @@ This project helps you:
 
 ---
 
-##Real-Life Advantages of OOP :
+Real-Life Advantages of OOP :
 
 OOP is not just theory — it is widely used in real-world applications:
 
