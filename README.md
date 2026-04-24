@@ -1,4 +1,4 @@
-## OOP Practice 
+## OOP Practice ##
 
 > A comprehensive implementation of **Object-Oriented Programming (OOP)** concepts using clean and practical Python examples.
 
@@ -12,7 +12,7 @@ The project is ideal for beginners and intermediate developers who want to stren
 
 ---
 
-##Core Concepts Covered :
+##Core Concepts Covered## :
 
 Abstraction :
 
